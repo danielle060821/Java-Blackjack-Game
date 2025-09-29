@@ -1,11 +1,20 @@
 # Java-Blackjack-Game 🎴
 
-A Java-based Blackjack game demonstrating object-oriented design and multi-class project organization.
-
 **Independent Project | June 2024**
-- A Java-based Blackjack game demonstrating object-oriented design and multi-class project organization.
-- Organized into 6 classes, with a TXT documentation explanation and a UML diagram.  
-  For detailed class relationships, objectives, and milestones, see [Project Documentation](ProjectDocumentation.docs) and [UML Diagram](UML.jpg).
+
+A console-based Java Blackjack game demonstrating object-oriented programming with 6 classes.
+
+---
+
+## Key OOP Features
+- **Inheritance:** Parent and child classes for shared behavior  
+- **Abstract Classes & Methods:** Enforce implementation in subclasses  
+- **Interfaces:** Define shared capabilities for multiple classes  
+- **Encapsulation:** Uses `private` and `protected` variables  
+
+Detailed class relationships is in [Project Documentation](ProjectDocumentation.docs).
+
+---
 
 ## How to Run
 1. Clone the repository:
